@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Nathan, I am 16 years old and a tech enthusiast, I'm fascinate to code and all it ecossitem! Some of things I like most is a clean/beautiful code and a high test coverage in my projects, also, I love to document they. All time I'm thinking how big enterprises works and in everything I do I like to be among the best, no exceptions! I'm very calm but my mind never stops, I still don't know if this is good or not :).
+My name is Nathan, I am 16 years old and a tech enthusiast, I'm fascinate to code and all it ecossitem! Some of things I like most is a clean/beautiful code and a high test coverage in my projects, also, I love to document they. All time I'm thinking how big enterprises works and in everything I do I like to be among the best, no exceptions! I'm very calm but my mind never stops, I still don't know if this is good or not :)
+
+I am part of https://www.ibm.org/initiatives/p-tech
 
 
 ## Techs
