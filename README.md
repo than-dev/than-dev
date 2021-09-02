@@ -6,7 +6,6 @@ My name is Nathan, I am 16 years old and a tech enthusiast, I'm fascinate to cod
 ## Techs
 
 Some techs that I dominate:
-
 - Node.js
 - Javascript
 - GraphQL
@@ -18,14 +17,12 @@ Some techs that I dominate:
 
 
 Databanks:
-
 - MongoDB
 - MySQL
 - Postgres
 
 
 Extras:
-
 - Jest
 - Apache Kafka
 - RabbitMQ
@@ -33,7 +30,6 @@ Extras:
 
 
 I'm currently learning:
-
 - Advanced TDD
 - Advanced NodeJS - Performace Increase | Microservices | CI/CD
 - Advanced Javascript
@@ -41,6 +37,8 @@ I'm currently learning:
 - Clean Code and GoodPratices (I love you Uncle Bob)
 - Clean Arch
 - DDD
+
+<br>
 
 See some of my projects - https://github.com/NathanCotrim?tab=repositories
  
