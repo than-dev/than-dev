@@ -53,14 +53,3 @@ Linkedin:
 - https://www.linkedin.com/in/nathan-cotrim-127184209/
 
 make yourself comfortable to contact me :)
-
-<br>
-<br>
-
-<div>
-  <a href="https://github.com/NathanCotrim">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=NathanCotrim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanCotrim&&layout=compact&hide=shell&theme=dark"/>
-</div>
- <br>
-
