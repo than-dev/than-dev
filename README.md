@@ -25,13 +25,6 @@ Databanks:
 - MySQL
 - Postgres
 
-
-Extras:
-- Jest
-- Apache Kafka
-- RabbitMQ
-- Linux
-
 <br>
 
 See some of my projects - https://github.com/NathanCotrim?tab=repositories
