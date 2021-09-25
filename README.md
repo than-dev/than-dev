@@ -9,21 +9,12 @@ I am a back-end developer at Squadi - since September 2021 | https://www.squadi.
 
 ## Techs
 
-Some techs that I dominate:
 - Node.js
 - Javascript
-- GraphQL
 - HTML
 - CSS | SASS
 - TypeScript
-- Docker
-- GIT
 
-
-Databanks:
-- MongoDB
-- MySQL
-- Postgres
 
 <br>
 
