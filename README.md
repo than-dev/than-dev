@@ -28,4 +28,4 @@ E-mail address:
 Linkedin:
 - https://www.linkedin.com/in/nathan-cotrim-127184209/
 
-make yourself comfortable to contact me :)
+make yourself comfortable to contact me :)!
