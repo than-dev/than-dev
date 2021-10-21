@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nathan, I am 16 years old and a tech enthusiast, I'm fascinate to code and all it ecossitem! Some of things I like most are a clean/beautiful code and a high test coverage in my projects, also, I love to document they and in everything I do I like to be among the best, no exceptions!
+My name is Nathan, I am 16 years old and a tech enthusiast, I'm fascinate to code and all it ecossitem! Some of things I like most are a clean/beautiful code and a high test coverage in my projects.
 
 I am part of https://www.ibm.org/initiatives/p-tech <br>
 I am a back-end developer at Whydea - since Oct 2021 | https://www.whydea.com.br/ <br>
