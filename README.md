@@ -29,5 +29,3 @@ Linkedin:
 - https://www.linkedin.com/in/nathan-cotrim-127184209/
 
 make yourself comfortable to contact me :)!
-
-![image title](https://rushter.com/counter.svg)
