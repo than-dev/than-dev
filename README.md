@@ -23,7 +23,8 @@ See some of my projects - https://github.com/NathanCotrim?tab=repositories
 ## Contact
 
 E-mail address:
-- nathan.cotrim@gmail.com
+- nathan.cotrim@gmail.com (pers)
+- nathan.sfteng@gmail.com (prof)
 
 Linkedin:
 - https://www.linkedin.com/in/nathan-cotrim-127184209/
