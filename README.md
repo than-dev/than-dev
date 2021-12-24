@@ -26,13 +26,13 @@ See some of my projects - https://github.com/NathanCotrim?tab=repositories
 - classified @ebanx code your way - 2021
  
  
-## Contact
+## Find me
 
 E-mail address:
 - nathan.cotrim@gmail.com (pers)
 - nathan.sfteng@gmail.com (prof)
 
-Linkedin:
-- https://www.linkedin.com/in/nathan-cotrim-127184209/
+Linktree:
+- https://linktr.ee/nate.sfteng
 
 make yourself comfortable to contact me :)!
