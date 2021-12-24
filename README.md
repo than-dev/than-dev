@@ -20,8 +20,11 @@ I am a back-end developer at Squadi - since September 2021 | https://www.squadi.
 
 See some of my projects - https://github.com/NathanCotrim?tab=repositories
 
+
 ## Achieved
-- classified @EBANX code your way - 2021
+
+- classified @ebanx code your way - 2021
+ 
  
 ## Contact
 
