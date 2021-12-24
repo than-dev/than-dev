@@ -1,4 +1,4 @@
-### Up ▪️◾⬛◾▪️
+### Up ▪️◾ ⬛ ◾▪️
 
 I am 16 years old and a tech enthusiast, I'm fascinate to code and all it ecossitem! Some of things I like most are a clean/beautiful code and a high test coverage in my projects.
 
