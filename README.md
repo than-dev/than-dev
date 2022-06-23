@@ -29,8 +29,7 @@ See some of my projects - https://github.com/NathanCotrim?tab=repositories
 
 - cityjs SP 2022
 - frontinsampa 2022 (...)
-
-<br> 
+ 
  
 ## Find me
 
