@@ -24,12 +24,6 @@ See some of my projects - https://github.com/NathanCotrim?tab=repositories
 ## Achieved
 
 - classified @ebanx code your way - 2021
-
-## Events
-
-- cityjs SP 2022
-- frontinsampa 2022 (...)
- 
  
 ## Find me
 
