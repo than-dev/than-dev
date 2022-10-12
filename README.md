@@ -1,20 +1,25 @@
 ### Up ▪️◾ ⬛ ◾▪️
 
-I am a tech enthusiast, I'm fascinate to code and all it ecossitem! Some of things I like most are a clean/beautiful code and a high test coverage in my projects.
+I am a tech enthusiast, I'm fascinate to code and all it ecossitem! One of the things I like most is a clean/beautiful code, and ❤️ books.
 
 I am part of https://www.ibm.org/initiatives/p-tech <br>
 I am a CTO at Squadi - since April 2022 | https://www.squadi.com.br/
 
 
-## Techs
+## I have plain knowledge
 
-- Node.js
-- Javascript
-- HTML
-- CSS | SASS
-- TypeScript
-- Flutter
+- nodejs
+- javascript
+- html
+- css | sass
+- typescript
 
+## I'm learning
+
+- go
+- flutter/dart
+- microservices
+- react
 
 <br>
 
