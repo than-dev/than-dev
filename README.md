@@ -23,7 +23,7 @@ I am a CTO at Squadi - since April 2022 | https://www.squadi.com.br/
 
 <br>
 
-See some of my projects - https://github.com/NathanCotrim?tab=repositories
+See some of my projects - https://github.com/than-dev?tab=repositories
 
 
 ## Achieved
