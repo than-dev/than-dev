@@ -1,6 +1,6 @@
 ### Up ▪️◾ ⬛ ◾▪️
 
-I am a tech enthusiast, I'm fascinate to code and all it ecossitem! One of the things I like most is a clean/beautiful code, and ❤️ books.
+I am a tech enthusiast, I'm fascinate to code and all it ecossitem!
 
 I am part of https://www.ibm.org/initiatives/p-tech <br>
 I am a CTO at Squadi - since April 2022 | https://www.squadi.com.br/
