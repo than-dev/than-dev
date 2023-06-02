@@ -33,8 +33,7 @@ See some of my projects - https://github.com/than-dev?tab=repositories
 ## Find me
 
 E-mail address:
-- nathan.cotrim@gmail.com (pers)
-- nathan.sfteng@gmail.com (prof)
+- nathan.cotrim@gmail.com
 
 Linktree:
 - https://linktr.ee/nate.sfteng
