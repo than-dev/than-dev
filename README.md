@@ -3,7 +3,8 @@
 I am a tech enthusiast, I'm fascinate to code and all it ecossitem!
 
 I am part of https://www.ibm.org/initiatives/p-tech <br>
-I am a CTO at Squadi - since April 2022 | https://www.squadi.com.br/
+CTO at @Squadi - since April 2022 | https://www.squadi.com.br/ <br>
+Intern at @IBM
 
 
 ## I have plain knowledge
@@ -13,13 +14,9 @@ I am a CTO at Squadi - since April 2022 | https://www.squadi.com.br/
 - html
 - css | sass
 - typescript
-
-## I'm learning
-
-- go
-- flutter/dart
-- microservices
+- dart/flutter
 - react
+- docker | aws
 
 <br>
 
