@@ -1,13 +1,13 @@
-### Up ▪️◾ ⬛ ◾▪️
+### up ▪️◾ ⬛ ◾▪️
 
-I am a tech enthusiast, I'm fascinate to code and all it ecossitem!
+a tech enthusiast, fascinate to code and all it ecossitem!
 
 part of https://www.ibm.org/initiatives/p-tech <br> <br>
 cto at Squadi | https://www.squadi.com.br/ <br>
 intern at IBM
 
 
-## I have plain knowledge
+## knowledge
 
 - nodejs
 - javascript
@@ -20,19 +20,19 @@ intern at IBM
 
 <br>
 
-See some of my projects - https://github.com/than-dev?tab=repositories
+see some of my projects - https://github.com/than-dev?tab=repositories
+see some of my articles - https://medium.com/@than-dev
 
-
-## Achieved
+## achieved
 
 - classified @ebanx code your way - 2021
  
-## Find me
+## find me
 
-E-mail address:
+email:
 - nathan.cotrim@gmail.com
 
-Linktree:
+links:
 - https://linktr.ee/nate.sfteng
 
 make yourself comfortable to contact me :)!
