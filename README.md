@@ -2,9 +2,9 @@
 
 I am a tech enthusiast, I'm fascinate to code and all it ecossitem!
 
-I am part of https://www.ibm.org/initiatives/p-tech <br>
-CTO at @Squadi - since April 2022 | https://www.squadi.com.br/ <br>
-Intern at @IBM
+part of https://www.ibm.org/initiatives/p-tech <br> <br>
+cto at Squadi | https://www.squadi.com.br/ <br>
+intern at IBM
 
 
 ## I have plain knowledge
