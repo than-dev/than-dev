@@ -20,7 +20,7 @@ intern at IBM
 
 <br>
 
-see some of my projects - https://github.com/than-dev?tab=repositories
+see some of my projects - https://github.com/than-dev?tab=repositories <br>
 see some of my articles - https://medium.com/@than-dev
 
 ## achieved
