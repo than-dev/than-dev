@@ -2,11 +2,6 @@
 
 a tech enthusiast, fascinate to code and all it ecossitem!
 
-part of https://www.ibm.org/initiatives/p-tech <br> <br>
-cto at Squadi | https://www.squadi.com.br/ <br>
-intern at IBM
-
-
 ## knowledge
 
 - nodejs
